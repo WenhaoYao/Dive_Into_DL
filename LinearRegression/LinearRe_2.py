@@ -1,6 +1,4 @@
 import torch
-from torch.nn import init
-from torch.nn.modules.linear import Linear
 from torch.utils import data
 from torch import nn
 

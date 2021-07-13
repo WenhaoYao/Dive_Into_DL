@@ -1,7 +1,5 @@
 import torch
 from d2l import torch as d2l
-from torchvision.transforms.functional import InterpolationMode
-import matplotlib.pyplot as plt
 import os
 os.environ['KMP_DUPLICATE_LIB_OK'] = 'TRUE' 
 
